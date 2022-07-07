@@ -1,0 +1,17 @@
+body {
+    font-family: monospace;
+    font-weight: 700;
+    background-color: #333;
+    color: #fff;
+}
+.timer-container {
+    background-color: #6E85B7;
+    border: 5px solid gray;
+    border-radius: 2px;
+    margin-top: 19%;
+}
+h1 {
+    text-align: center;
+    font-size: 120px;
+    margin: 0;
+}
